@@ -1,0 +1,14 @@
+{
+  "name": "jones-automation-exercise",
+  "version": "1.0.0",
+  "description": "Jones home assignment — Playwright contact form automation",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.7.0"
+  }
+}
